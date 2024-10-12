@@ -1,1 +1,254 @@
-[{"heading":"Doručak","url":"breakfast","items":[{"heading":"French Croissant\"s","price":580,"description":"Kroasani sa nutelom ","bold":false},{"heading":"Baza doručak","price":720,"description":"Omlet ili jaja po želji, viršle, pršuta, pančeta, tost, jogurt","bold":true},{"heading":"Slim&Health Breakfast","price":550,"description":"Energy musli sa suvim voćem i jogurtom ili mlekom","bold":false},{"heading":"Baza Omlet","price":680,"description":"Paprika, tikvice, pečurke, gauda, paradajz","bold":true},{"heading":"Prženice","price":680,"description":"Sendviči sa sir sosom, pršutom, gaudom i paradajzom","bold":false}]},{"heading":"Apetizeri","url":"apetisers","items":[{"heading":"Pileća tortilja","price":920,"description":"Pileći file sa miksom svežeg povrća, gauda, dresing u tortilji i pomfrit","bold":false},{"heading":"Pileće rolnice","price":750,"description":"Hrskava tortilja punjena piletinom, pomfrit, bbq sos, soja sos, tempura sos","bold":false},{"heading":"Katana chicken","price":1300,"description":"Tempurisana piletina, samuraj sos i pomfrit","bold":false},{"heading":"Baza plate","price":970,"description":"Selekcija sireva i suhomesnatih proizvoda","bold":false},{"heading":"Pomfrit","price":300,"description":"","bold":false},{"heading":"Spicy krompir","price":300,"description":"","bold":false},{"heading":"Tortilla Chips","price":380,"description":"","bold":false}]},{"heading":"Supe","url":"soups","items":[{"heading":"Kremasta kari supra sa povrćem i mesom","price":630,"description":"Pikantna supa sa povrćem i odabranim komadina govedine","bold":false},{"heading":"Devil’s soup","price":630,"description":"Pikantna paradajz čorba sa povrćem i govedinom","bold":false,"tag":"hot"}]},{"heading":"Glavna jela","url":"lunch","items":[{"heading":"Batačići u terijaki sosu","price":1300,"description":"Hrskavi batačići u terijaki sosu na francuskom pireu","bold":false},{"heading":"Dekina kobasica","price":1350,"description":"Domaća dimljena kobasica sa spicy krompirom","bold":false},{"heading":"Shpaghetti ili Pene sa piletinom u sir sosu","price":1200,"description":"Šampinjoni u sosu od 3 vrste sira","bold":false},{"heading":"Shpaghetti ili Pene Pomodoro sa Biftekom","price":1250,"description":"Ražnjevi bifteka u pikantnom pomodoro sosu","bold":false,"tag":"hot"},{"heading":"Pileći file sa povrćem","price":1350,"description":"Grilovani pileći file sa grilovanim povrćem","bold":false},{"heading":"Beef Risotto","price":1300,"description":"Rižoto sa povrćem i odabranim komadima govedine, pikantno po izboru","bold":false,"tag":"hot"},{"heading":"Risotto sa lososom","price":1350,"description":"Rižoto sa povrćem i lososom ","bold":false,"tag":"fasting"},{"heading":"Risotto Vegie","price":1250,"description":"Rižoto sa povrćem i lososom ","bold":false,"tag":"fasting"},{"heading":"Losos Steak","price":2700,"description":"Stek lososa sa grilovanim povrćem","bold":false,"tag":"fasting"},{"heading":"Baza Asia","price":1250,"description":"Mix povrća sa pirinčem i odabranim komadima bifteka u terijaki sosu","bold":true},{"heading":"Ramstek","price":2100,"description":"Sočan juneći ramstek na francuskom pireu","bold":false},{"heading":"Hleb","price":200,"description":"","bold":false}]},{"heading":"Salate","url":"salads","items":[{"heading":"Mix zelenih salata","price":550,"description":"","bold":false},{"heading":"Paradajz salata","price":520,"description":"","bold":false},{"heading":"Chicken salata","price":990,"description":"Kremasta salata sa tempurisanom piletinom i parmezanom","bold":false},{"heading":"Biftek salata","price":1180,"description":"Kremasta salata sa tempurisanom piletinom i parmezanom","bold":false}]},{"heading":"Dezerti","url":"deserts","items":[{"heading":"Sutlijaš","price":590,"description":"Domaći sutlijaš sa nutelom posut komadićima lešnika","bold":false},{"heading":"Lava cake","price":590,"description":"Čokoladni kolač sa kremastim punjenjem i sladoledom","bold":false},{"heading":"Baza pancakes","price":570,"description":"2 palačinke po Vašem izboru","bold":true},{"heading":"Sladoled","price":200,"description":"Domaći zanatski sladoled, ukus po izboru","bold":false}]}]
+[
+  {
+    "heading": "Doručak",
+    "url": "breakfast",
+    "items": [
+      {
+        "heading": "French Croissant\"s",
+        "price": 620,
+        "description": "Kroasani sa nutelom ",
+        "bold": false
+      },
+      {
+        "heading": "Eggzilla Breakfast",
+        "price": 720,
+        "description": "Grilovani tost, kremasti omlet, pršuta, rukola, parmezan, dresing",
+        "bold": false
+      },
+      {
+        "heading": "Baza doručak",
+        "price": 720,
+        "description": "Omlet ili jaja po želji, viršle, pršuta, pančeta, tost, jogurt",
+        "bold": true
+      },
+      {
+        "heading": "Slim&Health Breakfast",
+        "price": 600,
+        "description": "Energy musli sa suvim voćem i jogurtom ili mlekom",
+        "bold": false
+      },
+      {
+        "heading": "Baza Omlet",
+        "price": 700,
+        "description": "Paprika, tikvice, pečurke, gauda, paradajz",
+        "bold": true
+      },
+      {
+        "heading": "Prženice",
+        "price": 680,
+        "description": "Sendviči sa sir sosom, pršutom, gaudom i paradajzom",
+        "bold": false
+      }
+    ]
+  },
+  {
+    "heading": "Apetizeri",
+    "url": "apetisers",
+    "items": [
+      {
+        "heading": "Pileća tortilja",
+        "price": 920,
+        "description": "Pileći file sa miksom svežeg povrća, gauda, dresing u tortilji i pomfrit",
+        "bold": false
+      },
+      {
+        "heading": "Pileće rolnice",
+        "price": 750,
+        "description": "Hrskava tortilja punjena piletinom, pomfrit, bbq sos, soja sos, tempura sos",
+        "bold": false
+      },
+      {
+        "heading": "Katana chicken",
+        "price": 1300,
+        "description": "Tempurisana piletina, samuraj sos i pomfrit",
+        "bold": false
+      },
+      {
+        "heading": "Baza plate",
+        "price": 970,
+        "description": "Selekcija sireva i suhomesnatih proizvoda",
+        "bold": false
+      },
+      {
+        "heading": "Pomfrit",
+        "price": 300,
+        "description": "",
+        "bold": false
+      },
+      {
+        "heading": "Spicy krompir",
+        "price": 300,
+        "description": "",
+        "bold": false
+      },
+      {
+        "heading": "Tortilla Chips",
+        "price": 380,
+        "description": "",
+        "bold": false
+      }
+    ]
+  },
+  {
+    "heading": "Supe",
+    "url": "soups",
+    "items": [
+      {
+        "heading": "Kremasta kari supra sa povrćem i mesom",
+        "price": 630,
+        "description": "Pikantna supa sa povrćem i odabranim komadina govedine",
+        "bold": false
+      },
+      {
+        "heading": "Devil’s soup",
+        "price": 630,
+        "description": "Pikantna paradajz čorba sa povrćem i govedinom",
+        "bold": false,
+        "tag": "hot"
+      }
+    ]
+  },
+  {
+    "heading": "Glavna jela",
+    "url": "lunch",
+    "items": [
+      {
+        "heading": "Batačići u terijaki sosu",
+        "price": 1300,
+        "description": "Hrskavi batačići u terijaki sosu na francuskom pireu",
+        "bold": false
+      },
+      {
+        "heading": "Dekina kobasica",
+        "price": 1350,
+        "description": "Domaća dimljena kobasica sa spicy krompirom",
+        "bold": false
+      },
+      {
+        "heading": "Shpaghetti ili Pene sa piletinom u sir sosu",
+        "price": 1200,
+        "description": "Šampinjoni u sosu od 3 vrste sira",
+        "bold": false
+      },
+      {
+        "heading": "Shpaghetti ili Pene Pomodoro sa Biftekom",
+        "price": 1250,
+        "description": "Ražnjevi bifteka u pikantnom pomodoro sosu",
+        "bold": false,
+        "tag": "hot"
+      },
+      {
+        "heading": "Pileći file sa povrćem",
+        "price": 1350,
+        "description": "Grilovani pileći file sa grilovanim povrćem",
+        "bold": false
+      },
+      {
+        "heading": "Beef Risotto",
+        "price": 1300,
+        "description": "Rižoto sa povrćem i odabranim komadima govedine, pikantno po izboru",
+        "bold": false,
+        "tag": "hot"
+      },
+      {
+        "heading": "Risotto sa lososom",
+        "price": 1350,
+        "description": "Rižoto sa povrćem i lososom ",
+        "bold": false,
+        "tag": "fasting"
+      },
+      {
+        "heading": "Risotto Vegie",
+        "price": 1250,
+        "description": "Rižoto sa povrćem i lososom ",
+        "bold": false,
+        "tag": "fasting"
+      },
+      {
+        "heading": "Losos Steak",
+        "price": 2700,
+        "description": "Stek lososa sa grilovanim povrćem",
+        "bold": false,
+        "tag": "fasting"
+      },
+      {
+        "heading": "Baza Asia",
+        "price": 1250,
+        "description": "Mix povrća sa pirinčem i odabranim komadima bifteka u terijaki sosu",
+        "bold": true
+      },
+      {
+        "heading": "Ramstek",
+        "price": 2100,
+        "description": "Sočan juneći ramstek na francuskom pireu",
+        "bold": false
+      },
+      {
+        "heading": "Hleb",
+        "price": 200,
+        "description": "",
+        "bold": false
+      }
+    ]
+  },
+  {
+    "heading": "Salate",
+    "url": "salads",
+    "items": [
+      {
+        "heading": "Mix zelenih salata",
+        "price": 550,
+        "description": "",
+        "bold": false
+      },
+      {
+        "heading": "Paradajz salata",
+        "price": 520,
+        "description": "",
+        "bold": false
+      },
+      {
+        "heading": "Chicken salata",
+        "price": 990,
+        "description": "Kremasta salata sa tempurisanom piletinom i parmezanom",
+        "bold": false
+      },
+      {
+        "heading": "Biftek salata",
+        "price": 1180,
+        "description": "Miks svežeg povrća sa odabranim komadima govedine u beef dresingu",
+        "bold": false
+      }
+    ]
+  },
+  {
+    "heading": "Dezerti",
+    "url": "deserts",
+    "items": [
+      {
+        "heading": "Sutlijaš",
+        "price": 590,
+        "description": "Domaći sutlijaš sa nutelom posut komadićima lešnika",
+        "bold": false
+      },
+      {
+        "heading": "Lava cake",
+        "price": 590,
+        "description": "Čokoladni kolač sa kremastim punjenjem i sladoledom",
+        "bold": false
+      },
+      {
+        "heading": "Baza pancakes",
+        "price": 620,
+        "description": "2 palačinke po Vašem izboru",
+        "bold": true
+      },
+      {
+        "heading": "Sladoled",
+        "price": 200,
+        "description": "Domaći zanatski sladoled, ukus po izboru",
+        "bold": false
+      }
+    ]
+  }
+]

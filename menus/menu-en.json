@@ -1,1 +1,254 @@
-[{"heading":"Breakfast","url":"breakfast","items":[{"heading":"French Croissant\"s","price":580,"description":"Croissants with Nutella","bold":false},{"heading":"Baza Breakfast","price":720,"description":"Omelette or eggs as desired, hot dogs, prosciutto, pancetta, toast, yogurt","bold":true},{"heading":"Slim&Health Breakfast","price":550,"description":"Energy muesli with dried fruit and yogurt or milk","bold":false},{"heading":"Baza Omelette","price":680,"description":"Peppers, zucchini, mushrooms, gouda, tomatoes","bold":true},{"heading":"French Toast","price":680,"description":"Sandwiches with cheese sauce, prosciutto, gouda and tomato","bold":false}]},{"heading":"Appetizers","url":"apetisers","items":[{"heading":"Chicken Tortilla","price":920,"description":"Chicken fillet with a mix of fresh vegetables, gouda, dressing in a tortilla and french fries","bold":false},{"heading":"Chicken Rolls","price":750,"description":"Crispy tortilla filled with chicken, french fries, bbq sauce, soy sauce, tempura sauce","bold":false},{"heading":"Katana chicken","price":1300,"description":"Tempura chicken, samurai sauce and french friest","bold":false},{"heading":"Baza plate","price":970,"description":"Selection of cheeses and cured meat products","bold":true},{"heading":"French fries","price":300,"description":"","bold":false},{"heading":"Spicy french fries","price":300,"description":"","bold":false},{"heading":"Tortilla Chips","price":380,"description":"","bold":false}]},{"heading":"Soups","url":"soups","items":[{"heading":"Creamy Curry Soup with Vegetable and Meat","price":630,"description":"Spicy soup with vegetables and selected pieces of beef","bold":false},{"heading":"Devil’s Soup","price":630,"description":"Spicy tomato soup with vegetables and beef","bold":false,"tag":"hot"}]},{"heading":"Main dishes","url":"lunch","items":[{"heading":"Drumsticks in teriyaki sauce","price":1300,"description":"Crispy drumsticks in teriyaki sauce on French mashed potatoes","bold":false},{"heading":"Grandpa's sausage","price":1350,"description":"Homemade smoked sausage with spicy potatoes","bold":false},{"heading":"Spaghetti or Penne with chicken in cheese sauce","price":1200,"description":"Mushrooms in a 3 types of cheese sauce","bold":false},{"heading":"Spaghetti or Penne Pomodoro with Steak","price":1250,"description":"Steak skewers in spicy pomodoro sauce","bold":false,"tag":"hot"},{"heading":"Chicken fillet with vegetables","price":1350,"description":"Grilled chicken fillet with grilled vegetables","bold":false},{"heading":"Beef Risotto","price":1300,"description":"Risotto with vegetables and selected pieces of beef, spicy to your choice","bold":false,"tag":"hot"},{"heading":"Risotto with Salmon","price":1350,"description":"Risotto with vegetables and salmon","bold":false,"tag":"fasting"},{"heading":"Risotto Veggie","price":1250,"description":"Risotto with vegetables","bold":false,"tag":"fasting"},{"heading":"Salmon Steak","price":2700,"description":"Salmon steak with grilled vegetables","bold":false,"tag":"fasting"},{"heading":"Baza Asia","price":1250,"description":"Mix of vegetables and rice with special chops of beef steak in teriaki souce","bold":true},{"heading":"Rampsteak","price":2100,"description":"Juicy beef steak on French puree","bold":false},{"heading":"Bread","price":200,"description":"","bold":false}]},{"heading":"Salads","url":"salads","items":[{"heading":"Mix of green salads","price":550,"description":"","bold":false},{"heading":"Tomato salad","price":520,"description":"","bold":false},{"heading":"Chicken salad","price":990,"description":"Creamy salad with tempura chicken and parmesan cheese","bold":false},{"heading":"Steak Salad","price":1180,"description":"Kremasta salata sa tempurisanom piletinom i parmezanom","bold":false}]},{"heading":"Desserts","url":"deserts","items":[{"heading":"Rice pudding","price":590,"description":"Homemade rice pudding with Nutella sprinkled with pieces of hazelnut","bold":false},{"heading":"Lava cake","price":590,"description":"Chocolate cake with cream filling and ice cream","bold":false},{"heading":"Baza pancakes","price":570,"description":"2 pancakes of your choice","bold":true},{"heading":"Ice cream","price":200,"description":"Homemade artisanal ice cream, flavor of your choice","bold":false}]}]
+[
+  {
+    "heading": "Breakfast",
+    "url": "breakfast",
+    "items": [
+      {
+        "heading": "French Croissant\"s",
+        "price": 620,
+        "description": "Croissants with Nutella",
+        "bold": false
+      },
+      {
+        "heading": "Eggzilla Breakfast",
+        "price": 720,
+        "description": "Grilled toast, creamy omelette, prosciutto, arugula, parmesan, dressing",
+        "bold": false
+      },
+      {
+        "heading": "Baza Breakfast",
+        "price": 720,
+        "description": "Omelette or eggs as desired, hot dogs, prosciutto, pancetta, toast, yogurt",
+        "bold": true
+      },
+      {
+        "heading": "Slim&Health Breakfast",
+        "price": 600,
+        "description": "Energy muesli with dried fruit and yogurt or milk",
+        "bold": false
+      },
+      {
+        "heading": "Baza Omelette",
+        "price": 700,
+        "description": "Peppers, zucchini, mushrooms, gouda, tomatoes",
+        "bold": true
+      },
+      {
+        "heading": "French Toast",
+        "price": 680,
+        "description": "Sandwiches with cheese sauce, prosciutto, gouda and tomato",
+        "bold": false
+      }
+    ]
+  },
+  {
+    "heading": "Appetizers",
+    "url": "apetisers",
+    "items": [
+      {
+        "heading": "Chicken Tortilla",
+        "price": 920,
+        "description": "Chicken fillet with a mix of fresh vegetables, gouda, dressing in a tortilla and french fries",
+        "bold": false
+      },
+      {
+        "heading": "Chicken Rolls",
+        "price": 750,
+        "description": "Crispy tortilla filled with chicken, french fries, bbq sauce, soy sauce, tempura sauce",
+        "bold": false
+      },
+      {
+        "heading": "Katana chicken",
+        "price": 1300,
+        "description": "Tempura chicken, samurai sauce and french friest",
+        "bold": false
+      },
+      {
+        "heading": "Baza plate",
+        "price": 970,
+        "description": "Selection of cheeses and cured meat products",
+        "bold": true
+      },
+      {
+        "heading": "French fries",
+        "price": 300,
+        "description": "",
+        "bold": false
+      },
+      {
+        "heading": "Spicy french fries",
+        "price": 300,
+        "description": "",
+        "bold": false
+      },
+      {
+        "heading": "Tortilla Chips",
+        "price": 380,
+        "description": "",
+        "bold": false
+      }
+    ]
+  },
+  {
+    "heading": "Soups",
+    "url": "soups",
+    "items": [
+      {
+        "heading": "Creamy Curry Soup with Vegetable and Meat",
+        "price": 630,
+        "description": "Spicy soup with vegetables and selected pieces of beef",
+        "bold": false
+      },
+      {
+        "heading": "Devil’s Soup",
+        "price": 630,
+        "description": "Spicy tomato soup with vegetables and beef",
+        "bold": false,
+        "tag": "hot"
+      }
+    ]
+  },
+  {
+    "heading": "Main dishes",
+    "url": "lunch",
+    "items": [
+      {
+        "heading": "Drumsticks in teriyaki sauce",
+        "price": 1300,
+        "description": "Crispy drumsticks in teriyaki sauce on French mashed potatoes",
+        "bold": false
+      },
+      {
+        "heading": "Grandpa's sausage",
+        "price": 1350,
+        "description": "Homemade smoked sausage with spicy potatoes",
+        "bold": false
+      },
+      {
+        "heading": "Spaghetti or Penne with chicken in cheese sauce",
+        "price": 1200,
+        "description": "Mushrooms in a 3 types of cheese sauce",
+        "bold": false
+      },
+      {
+        "heading": "Spaghetti or Penne Pomodoro with Steak",
+        "price": 1250,
+        "description": "Steak skewers in spicy pomodoro sauce",
+        "bold": false,
+        "tag": "hot"
+      },
+      {
+        "heading": "Chicken fillet with vegetables",
+        "price": 1350,
+        "description": "Grilled chicken fillet with grilled vegetables",
+        "bold": false
+      },
+      {
+        "heading": "Beef Risotto",
+        "price": 1300,
+        "description": "Risotto with vegetables and selected pieces of beef, spicy to your choice",
+        "bold": false,
+        "tag": "hot"
+      },
+      {
+        "heading": "Risotto with Salmon",
+        "price": 1350,
+        "description": "Risotto with vegetables and salmon",
+        "bold": false,
+        "tag": "fasting"
+      },
+      {
+        "heading": "Risotto Veggie",
+        "price": 1250,
+        "description": "Risotto with vegetables",
+        "bold": false,
+        "tag": "fasting"
+      },
+      {
+        "heading": "Salmon Steak",
+        "price": 2700,
+        "description": "Salmon steak with grilled vegetables",
+        "bold": false,
+        "tag": "fasting"
+      },
+      {
+        "heading": "Baza Asia",
+        "price": 1250,
+        "description": "Mix of vegetables and rice with special chops of beef steak in teriaki souce",
+        "bold": true
+      },
+      {
+        "heading": "Rampsteak",
+        "price": 2100,
+        "description": "Juicy beef steak on French puree",
+        "bold": false
+      },
+      {
+        "heading": "Bread",
+        "price": 200,
+        "description": "",
+        "bold": false
+      }
+    ]
+  },
+  {
+    "heading": "Salads",
+    "url": "salads",
+    "items": [
+      {
+        "heading": "Mix of green salads",
+        "price": 550,
+        "description": "",
+        "bold": false
+      },
+      {
+        "heading": "Tomato salad",
+        "price": 520,
+        "description": "",
+        "bold": false
+      },
+      {
+        "heading": "Chicken salad",
+        "price": 990,
+        "description": "Creamy salad with tempura chicken and parmesan cheese",
+        "bold": false
+      },
+      {
+        "heading": "Steak Salad",
+        "price": 1180,
+        "description": "Mix of fresh vegetables with selected pieces of beef in a beef dressing",
+        "bold": false
+      }
+    ]
+  },
+  {
+    "heading": "Desserts",
+    "url": "deserts",
+    "items": [
+      {
+        "heading": "Rice pudding",
+        "price": 590,
+        "description": "Homemade rice pudding with Nutella sprinkled with pieces of hazelnut",
+        "bold": false
+      },
+      {
+        "heading": "Lava cake",
+        "price": 590,
+        "description": "Chocolate cake with cream filling and ice cream",
+        "bold": false
+      },
+      {
+        "heading": "Baza pancakes",
+        "price": 620,
+        "description": "2 pancakes of your choice",
+        "bold": true
+      },
+      {
+        "heading": "Ice cream",
+        "price": 200,
+        "description": "Homemade artisanal ice cream, flavor of your choice",
+        "bold": false
+      }
+    ]
+  }
+]
