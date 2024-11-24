@@ -19,7 +19,7 @@
         "heading": "Baza Breakfast",
         "price": 760,
         "description": "Omelette or eggs as desired, hot dogs, prosciutto, pancetta, toast, yogurt",
-        "bold": true
+        "bold": false
       },
       {
         "heading": "Slim&Health Breakfast",
@@ -31,7 +31,7 @@
         "heading": "Baza Omelette",
         "price": 700,
         "description": "Peppers, zucchini, mushrooms, gouda, tomatoes",
-        "bold": true
+        "bold": false
       },
       {
         "heading": "French Toast",
@@ -67,7 +67,7 @@
         "heading": "Baza plate",
         "price": 970,
         "description": "Selection of cheeses and cured meat products",
-        "bold": true
+        "bold": false
       },
       {
         "heading": "French fries",
@@ -175,7 +175,7 @@
         "heading": "Baza Asia",
         "price": 1250,
         "description": "Mix of vegetables and rice with special chops of beef steak in teriaki souce",
-        "bold": true
+        "bold": false
       },
       {
         "heading": "Rampsteak",
@@ -241,7 +241,7 @@
         "heading": "Baza pancakes",
         "price": 620,
         "description": "2 pancakes of your choice",
-        "bold": true
+        "bold": false
       },
       {
         "heading": "Ice cream",
