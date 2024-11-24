@@ -19,7 +19,7 @@
         "heading": "Baza doručak",
         "price": 760,
         "description": "Omlet ili jaja po želji, viršle, pršuta, pančeta, tost, jogurt",
-        "bold": false
+        "bold": true
       },
       {
         "heading": "Slim&Health Breakfast",
@@ -31,7 +31,7 @@
         "heading": "Baza Omlet",
         "price": 700,
         "description": "Paprika, tikvice, pečurke, gauda, paradajz",
-        "bold": false
+        "bold": true
       },
       {
         "heading": "Prženice",
@@ -175,7 +175,7 @@
         "heading": "Baza Asia",
         "price": 1250,
         "description": "Mix povrća sa pirinčem i odabranim komadima bifteka u terijaki sosu",
-        "bold": false
+        "bold": true
       },
       {
         "heading": "Ramstek",
@@ -241,7 +241,7 @@
         "heading": "Baza pancakes",
         "price": 620,
         "description": "2 palačinke po Vašem izboru",
-        "bold": false
+        "bold": true
       },
       {
         "heading": "Sladoled",
