@@ -667,6 +667,14 @@
           {
             "heading":"Benvenuti Malvazija - Istra 0,75",
             "price":3000
+          },
+          {
+            "heading": "Jokic Pošip - Dalmacija 0,15",
+            "price": 680
+          },
+          {
+            "heading": "Jokic Pošip - Dalmacija 0,75",
+            "price": 3400
           }
         ]
       },
@@ -680,6 +688,14 @@
           {
             "heading":"Frescobaldi Alie Rose-Toscana 0,75",
             "price":3200
+          },
+          {
+            "heading": "Pink Punk Rose Chichateau 0,15",
+            "price": 620
+          },
+          {
+            "heading": "Pink Punk Rose Chichateau 0,75",
+            "price": 3100
           }
         ]
       },
@@ -693,6 +709,14 @@
           {
             "heading":"Albarello Primitivo del Salento 0,75",
             "price":3300
+          },
+          {
+            "heading": "Erdevik Grand Trianon 0,15",
+            "price": 880
+          },
+          {
+            "heading": "Erdevik Grand Trianon 0,75",
+            "price": 4400
           }
         ]
       },

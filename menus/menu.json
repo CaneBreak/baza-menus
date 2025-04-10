@@ -119,6 +119,13 @@
         "bold": false
       },
       {
+        "heading": "Hulk's breast",
+        "price": 1680,
+        "description": "Punjeni pileći file sa pršutom i gaudom u pesto sosu sa spicy krompirom",
+        "bold": false,
+        "tag": "hot"
+      },
+      {
         "heading": "Dekina kobasica",
         "price": 1350,
         "description": "Domaća dimljena kobasica sa spicy krompirom",
@@ -205,6 +212,12 @@
         "heading": "Paradajz salata",
         "price": 520,
         "description": "",
+        "bold": false
+      },
+      {
+        "heading": "Vitaminska salata",
+        "price": 580,
+        "description": "Iceberg, rukola, šargarepa, kukuruz, čeri",
         "bold": false
       },
       {

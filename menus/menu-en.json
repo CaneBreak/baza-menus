@@ -119,6 +119,13 @@
         "bold": false
       },
       {
+        "heading": "Hulk's breast",
+        "price": 1680,
+        "description": "Stuffed chicken fillet with prosciutto and gouda in pesto sauce, served with spicy potatoes.",
+        "bold": false,
+        "tag": "hot"
+      },
+      {
         "heading": "Grandpa's sausage",
         "price": 1350,
         "description": "Homemade smoked sausage with spicy potatoes",
@@ -199,6 +206,12 @@
         "heading": "Mix of green salads",
         "price": 550,
         "description": "",
+        "bold": false
+      },
+      {
+        "heading": "Vitamin salad",
+        "price": 580,
+        "description": "Iceberg, arugula, carrot, corn, cherry tomatoes",
         "bold": false
       },
       {
