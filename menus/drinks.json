@@ -514,10 +514,6 @@
       {
         "heading": "Remy Martin VSOP",
         "price": 840
-      },
-      {
-        "heading": "Metaxa 7*",
-        "price": 570
       }
     ]
   },
@@ -665,14 +661,6 @@
         "heading": "Bela vina",
         "items": [
           {
-            "heading": "Jokić Maraština 0,15",
-            "price": 560
-          },
-          {
-            "heading": "Jokić Maraština 0,75",
-            "price": 2900
-          },
-          {
             "heading": "Benvenuti Malvazija - Istra 0,15",
             "price": 600
           },
@@ -686,14 +674,6 @@
         "heading": "Rose",
         "items": [
           {
-            "heading": "Jokić Rosy 0,15",
-            "price": 540
-          },
-          {
-            "heading": "Jokić Rosy 0,75",
-            "price": 2700
-          },
-          {
             "heading": "Frescobaldi Alie Rose-Toscana 0,15",
             "price": 640
           },
@@ -706,14 +686,6 @@
       {
         "heading": "Crvena vina",
         "items": [
-          {
-            "heading": "Jokić Cuvee 0,15",
-            "price": 620
-          },
-          {
-            "heading": "Jokić Cuvee 0,75",
-            "price": 3100
-          },
           {
             "heading": "Albarello Primitivo del Salento 0,15",
             "price": 660
